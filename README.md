@@ -9,7 +9,7 @@
 ## 💫 About Me
 
 - 🔭 I’m currently working on: **Dual internships as a Python Developer at Pinnacle Labs and an AI Intern at Decode Labs, while advancing my skills in an AI/ML Bootcamp.**
-- 🌱 I’m currently learning: **Advanced Machine Learning, Data Engineering, and Design Thinking, all while diving deep into the mysteries of Astrophysics.**
+- 🌱 I’m currently learning: **Advanced Machine Learning, Data Engineering, and Design Thinking Methodologies, all while diving deep into the mysteries of Astrophysics and Space Explorations.**
 - 👯 I’m looking to collaborate on: **AI/ML research projects, open-source data tools, scalable backend architectures, and tackling real-world problems.**
 - 💬 Ask me about: **Python, C, SQL (MySQL/Oracle), Data Web Scraping, or Space!**
 - ⚡ Fun fact: **I love finding order in chaos—whether that's untangling massive datasets or deciphering the mysteries of astrophysics!**
