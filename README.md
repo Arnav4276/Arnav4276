@@ -99,15 +99,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arnav4276&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arnav4276&theme=tokyonight" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arnav4276&theme=tokyonight" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnav4276&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Arnav4276&theme=tokyonight&hide_border=true&background=0D1117" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnav4276&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arnav4276&theme=tokyonight" alt="Top Languages" />
+  <a href="https://github-stats-extended.vercel.app/api/top-langs/?username=Arnav4276&theme=tokyonight&layout=compact" target="_blank">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arnav4276&theme=tokyonight&layout=compact" alt="Top Languages" />
+  </a>
 </p>
 
 ## ✍️ Random Dev Quote
